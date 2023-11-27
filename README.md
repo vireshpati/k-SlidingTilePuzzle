@@ -42,4 +42,6 @@ Uniform Cost Search
 -astar: uses astar .
 -ucs: uses uniform cost search.
 
+Sample: java Tester.java 3 0 7 2 8 1 6 4 5 -size 3 -astar -l1 -stats
+
 
