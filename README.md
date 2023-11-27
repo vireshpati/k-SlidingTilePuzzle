@@ -4,18 +4,25 @@ Solution to k-puzzles using A-star algorithm approach.
 # Heuristics 
 
 Hamming Distance.
+
 Manhattan Distance.
+
 Euclidean Distance.
 
 Linear Conflicts Heuristic - Calculates the number of other tiles in a row between a tile and its correct position.
+
 Last Moves Heuristic - Considers additional moves from final position in reverse.
 
 # Search Algorithms
 
 Breadth First Search.
+
 Depth First Search.
+
 Greedy Breadth First Search.
+
 A Star.
+
 Uniform Cost Search.
 
 # Command Line 
